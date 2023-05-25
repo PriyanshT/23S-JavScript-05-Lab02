@@ -7,8 +7,7 @@
 Using the HTML, CSS and JavaScript code provided to you, modify the JavaScript so that the page that does the following:
 1. Generates a random story in a paragraph when the user pressed the button.
 2. Replaces the default name "Bob" in the story with a custom name, but only if a custom name is entered into the "Enter custom name" text field before the generate button is pressed. 
-3. Converts the default imperial weight (pounds) and temperature (°F) values to kilograms (kg) and centigrade (°C) if the “metric” radio button is checked before the generate button is pressed.
-4. Will generate another random silly story if you press the button again (and again...).
+3. Will generate another random silly story if you press the button again (and again...).
 
 #### INSTRUCTIONS
 Follow along with the numbered instructions inside the code comments in the provided JavaScript file.
